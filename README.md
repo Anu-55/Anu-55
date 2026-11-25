@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Anu M L 👋
 
-<!--
-**Anu-55/Anu-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student at BMSIT, Bengaluru.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about building web applications and AI-powered solutions.
+
+🌱 Currently learning JavaScript and React.
+
+🛠️ Skills: Python, JavaScript, HTML, CSS, SQL, React.
+
+🚀 Interested in Software Development, Full Stack Development.
+
+📫 Connect with me:
+- LinkedIn: [https://www.linkedin.com/in/anu-ml/]
+- GitHub: [https://github.com/Anu-55]
