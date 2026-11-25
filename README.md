@@ -15,7 +15,7 @@
 📫 Connect with me:
 - LinkedIn: [https://www.linkedin.com/in/anu-ml/]
 - GitHub: [https://github.com/Anu-55]
-## 💻 Tech Stack
+## 🛠️ Technical Skills
 
 ### Programming Languages
 <p>
@@ -24,15 +24,22 @@
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
-### Database & Tools
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### Currently Learning
 - React.js
 - Advanced JavaScript
 - Data Structures and Algorithms
+
+
